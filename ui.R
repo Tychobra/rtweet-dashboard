@@ -6,7 +6,7 @@ sidebar <- dashboardSidebar(
   sidebarMenu(
     shinyWidgets::searchInput(
       "search_twitter",
-      "Seach Twitter",
+      "Search",
       value = "Elon Musk",
       btnSearch = icon("search"),
       #btnReset = icon("remove"),

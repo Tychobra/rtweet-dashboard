@@ -4,7 +4,7 @@ library(shinyWidgets)
 library(config)
 library(rtweet)
 library(dplyr)
-
+library(DT)
 
 
 

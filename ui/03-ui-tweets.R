@@ -1,9 +1,9 @@
 tabItem(
   "tweets",
   fluidRow(
-    column(
-      12,
-      h1("Tweets")
+    box(
+      width = 12,
+      DTOutput("tweets_table")
     )
   )
 )

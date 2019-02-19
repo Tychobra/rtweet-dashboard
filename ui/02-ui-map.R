@@ -1,0 +1,9 @@
+tabItem(
+  "map",
+  fluidRow(
+    column(
+      12,
+      h1("Map")
+    )
+  )
+)
